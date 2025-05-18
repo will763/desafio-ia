@@ -71,7 +71,7 @@ Caso o ambiente seja ativado seu terminal ficara assim, com o nome do ambiente n
 ```bash
 pip install -r requirements.txt
 ```
-2. Execute o Jupyter Notebook:
+5. Execute o Jupyter Notebook:
 
 Baixe o dataset  e faça a extração para a pasta dataset.
 Link para o dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
