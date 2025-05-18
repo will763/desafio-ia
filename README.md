@@ -76,7 +76,7 @@ pip install -r requirements.txt
 Baixe o dataset  e faça a extração para a pasta dataset.
 Link para o dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-A pasta dataset deve ficar assim.
+A pasta dataset deve ficar assim, com os 9 csv extraídos.
 
 ![image-3](https://github.com/user-attachments/assets/668ee486-8bc1-4f84-8297-0453e6bc3503)
 
