@@ -17,9 +17,12 @@ Este projeto apresenta a resolução do desafio técnico do Programa Trainee da 
 - Alguns plugins do Visual Studio Code
 
 Python:
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/fd5504d5-70fb-4b4c-8955-78acfde36000)
+
 Jupyter (ajuda na execução e visualização do notebook):
-![alt text](image-1.png)
+
+![image-1](https://github.com/user-attachments/assets/23533236-2979-4439-a035-3a3d5ffa9476)
 
 ## Como Executar
 
@@ -58,8 +61,10 @@ agora sua estrutura deve ficar assim
 ```bash
 .\trigo-desafio-env\Scripts\Activate.ps1
 ``` 
-Caso o ambiente seja ativado seu terminal ficara assim
-![alt text](image-2.png)
+Caso o ambiente seja ativado seu terminal ficara assim.
+
+![image-2](https://github.com/user-attachments/assets/5633d50b-44d1-420f-941f-5da287893d5f)
+
 
 4. Instale as bibliotecas 
 ```bash
@@ -71,21 +76,22 @@ Baixe o dataset  e faça a extração para a pasta dataset.
 Link para o dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 A pasta dataset deve ficar assim.
-![alt text](image-3.png)
+
+![image-3](https://github.com/user-attachments/assets/668ee486-8bc1-4f84-8297-0453e6bc3503)
 
 Selecione o Kernel, ambiente no qual será executado o notebook, mas antes é necessário ter instalado os plugins que mencionei acima.
 
-![alt text](image-5.png)
+![image-5](https://github.com/user-attachments/assets/6ef7f543-143f-4d14-b990-5758f1a32f6f)
 
 Abra o arquivo `main.ipynb`, feche as secções do notebook e click no play, como a imagem abaixo.( o vscode fica dessa maneira graças ao plugin Jupyter )
 
-![alt text](image-4.png)
+![image-4](https://github.com/user-attachments/assets/76eae754-a19e-4c68-8fef-29643496fca0)
 
 Espere o término da execução do código, isso pode demorar um pouco. Após isso, verifique os resultados em cada secção do desafio.
 
-![alt text](image-6.png)
+![image-6](https://github.com/user-attachments/assets/28772f95-c79b-449f-813f-57520d3f83fb)
 
-#### Caso algum codigo ocorra um erro, execute a fase de prepapação dos dados, em seguida execute novamente a secção do código/desafio que gerou o erro.
+### Caso algum codigo ocorra um erro, execute a fase de prepapação dos dados, em seguida execute novamente a secção do código/desafio que gerou o erro.
 
 ## Referências de conteúdo técnico que me ajudou
 Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow: Conceitos, Ferramentas e Técnicas Para a Construção de Sistemas Inteligentes -  Aurélien Géron.
