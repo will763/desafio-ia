@@ -40,6 +40,7 @@ git clone https://github.com/will763/desafio-ia.git
 ├── requirements.txt     # Dependências do projeto
 └── dataset/             # Diretório contendo os arquivos CSV usados na análise
 ```
+### OBS: Caso a pasta dataset não esteja presente, basta cria-la manualmete.
 
 2. Crie seu ambiente
 ```
