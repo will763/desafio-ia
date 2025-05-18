@@ -62,7 +62,7 @@ agora sua estrutura deve ficar assim
 ```bash
 .\trigo-desafio-env\Scripts\Activate.ps1
 ``` 
-Caso o ambiente seja ativado seu terminal ficara assim.
+Caso o ambiente seja ativado seu terminal ficara assim, com o nome do ambiente na frente do terminal.
 
 ![image-2](https://github.com/user-attachments/assets/5633d50b-44d1-420f-941f-5da287893d5f)
 
@@ -80,7 +80,7 @@ A pasta dataset deve ficar assim.
 
 ![image-3](https://github.com/user-attachments/assets/668ee486-8bc1-4f84-8297-0453e6bc3503)
 
-Selecione o Kernel, ambiente no qual será executado o notebook, mas antes é necessário ter instalado os plugins que mencionei acima.
+Selecione o Kernel, ambiente no qual será executado o notebook, mas antes é necessário ter instalado os plugins que mencionei acima e também ter instalado as dependências para o ambiente usando o pip install -r requirements.txt com o ambiente ativo, isso também foi mostrado acima.
 
 ![image-5](https://github.com/user-attachments/assets/6ef7f543-143f-4d14-b990-5758f1a32f6f)
 
